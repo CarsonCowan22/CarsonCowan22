@@ -86,5 +86,5 @@ I am a junior at Utah Valley University majoring in computer science with a stro
 
 ## Let's Connect!
 
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/carson-cowan-478153163)
-- GitHub: [[Your GitHub Profile URL]](https://github.com/CarsonCowan22/)https://github.com/CarsonCowan22/
+- LinkedIn: [[https://www.linkedin.com/in/carson-cowan-478153163]]
+- GitHub: [[https://github.com/CarsonCowan22/]]

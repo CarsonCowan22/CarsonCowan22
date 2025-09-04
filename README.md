@@ -1,7 +1,7 @@
 # Carson Cowan
 
 🚀 **Full Stack Engineer @ Privix** | Salt Lake City, UT
-📧 **Email:** [crcubemaster22@gmail.com](mailto:crcubemaster22@gmail.com)
+📧 **Email:** [carsoncowan0222@gmail.com](mailto:carsoncowan0222@gmail.com)
 📞 **Phone:** 760-705-5317
 🎓 **Utah Valley University** – BAS Software Development (Graduating 2025)
 
@@ -97,5 +97,5 @@ Credential ID: 64B8AA2EF6
 
 ## Let's Connect!
 
-📧 Email me at [crcubemaster22@gmail.com](mailto:crcubemaster22@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/carson-cowan-478153163) | [GitHub](https://github.com/CarsonCowan22)
+📧 Email me at [carsoncowan0222@gmail.com](mailto:carsoncowan0222@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/carson-cowan) | [GitHub](https://github.com/CarsonCowan22)

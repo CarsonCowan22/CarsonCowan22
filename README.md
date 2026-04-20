@@ -1,90 +1,78 @@
 # Carson Cowan
 
-🚀 **Full Stack Engineer @ Privix** | Salt Lake City, UT
+🚀 **Full Stack Engineer** | Vista, CA
 📧 **Email:** [carsoncowan0222@gmail.com](mailto:carsoncowan0222@gmail.com)
 📞 **Phone:** 760-705-5317
-🎓 **Utah Valley University** – BAS Software Development (Graduating 2025)
+🎓 **Utah Valley University** – BAS Software Development (May 2025)
 
 ---
 
 ## Summary
 
-I am a Full Stack Software Engineer with a passion for building secure and scalable web applications. Currently, I'm working at **Privix** (since June 2025) – a secure SaaS platform for managing solar-financing projects and applicant onboarding. In this role, I combine modern technologies (**Next.js, React, TypeScript, PostgreSQL**) with my background in the solar industry to create seamless user experiences and robust backend systems. I love tackling complex workflows and integrating external services to deliver innovative solutions for renewable energy finance.
+Full Stack Software Engineer with a passion for building secure, scalable web applications. I hold a BAS in Software Development from Utah Valley University and bring 5+ years of industry experience spanning engineering operations, CAD team management, and HubSpot workflow automation in the solar sector. My flagship project, **Privix**, is a production-grade SaaS platform I architected and built solo -- combining modern web technologies with deep domain knowledge in solar financing. I'm actively seeking full-time software engineering roles where I can ship meaningful products and grow alongside a strong team.
 
 ---
 
 ## Experience
 
-### Privix | Full Stack Engineer (Jun 2025 – Present)
+### Bryton Power | CAD Revision / Project Funding Specialist (Jun 2025 – Present)
 
-* **Architecting & Developing:** Building a secure end-to-end solar financing platform using **Next.js 15 (React + TypeScript)** and **PostgreSQL**, enabling streamlined project management and financing applications.
+* Manage CAD revision workflows and coordinate project funding submissions across active solar installations.
+* Bridge technical and operational teams to ensure permitting and financing accuracy.
+
+### Privix | Founding Engineer (Jun 2024 – Present)
+
+* **Architecting & Developing:** Built a secure end-to-end solar financing SaaS platform from scratch using **Next.js 15 (React + TypeScript)** and **PostgreSQL**, enabling streamlined project management and financing applications.
 * **Workflow & Integrations:** Implemented multi-step onboarding workflows and integrated multi-bureau credit checks (TransUnion, Experian, Equifax) with automated PDF report generation and email notifications.
-* **Authentication & Security:** Built robust authentication and role-based access control with **NextAuth.js**, securing protected routes for authorized users only. Ensured sensitive data encryption and compliance with security best practices.
-* **CI/CD & Optimization:** Streamlined deployment via **CI/CD on Vercel**. Resolved critical production issues (e.g., fixed database SSL config mismatches and memory leaks in React state management) and introduced a global error boundary to catch runtime errors, improving production stability.
+* **Authentication & Security:** Built role-based access control with **NextAuth.js**, securing protected routes and encrypting sensitive data at rest with full audit logging.
+* **CI/CD & Reliability:** Deployed via **Vercel CI/CD**. Resolved SSL misconfigs and React memory leaks in production; added a global error boundary, memory monitor, and env verification script for safer deploys.
 
-### SUNco Roofing and Solar | CAD and Engineering Supervisor (Oct 2023 – Jun 2025)
+### ATTYX | CAD & Engineering Department Manager (2022 – 2024)
 
-* Led a cross-state/country engineering team, promoting collaboration and professional growth.
-* Automated AutoCAD and Excel templates to streamline solar design processes and reduce manual work.
-* Developed custom scripts to optimize workflow and job tracking, increasing efficiency.
-* Maintained relationships with suppliers, PEs, utility companies, and regulatory authorities to ensure project compliance.
+* Managed a cross-state engineering team, overseeing CAD design, permitting submissions, and QA workflows.
+* Automated AutoCAD and Excel templates to reduce manual design work and accelerate project timelines.
+* Built HubSpot CRM automations and custom scripts to optimize job tracking and inter-department communication.
+* Maintained relationships with PEs, utility companies, AHJs, and HOAs to ensure regulatory compliance.
 
-### Lumio HX
+### Lumio HX | PV CAD Designer / Revision Specialist / Solar Proposal Designer (Apr 2022 – Oct 2022)
 
-#### Revision Specialist (Jun 2022 – Oct 2022)
-
-* Interpreted plan corrections and facilitated communication with drafters to implement required changes.
-* Drafted revision submissions for CAD designs and trained team members on revision processes.
-* Ensured quality control for 50+ plan updates weekly.
-
-#### PV CAD Designer (Apr 2022 – Oct 2022)
-
-* Created and edited PV solar design plans in AutoCAD.
-* Coordinated with engineers to integrate feedback and ensure designs met local requirements.
-
-#### Solar Proposal Designer (Apr 2022 – Oct 2022)
-
-* Generated solar installation proposals using **Aurora Solar**, **Solflow**, and **Pitt**.
-* Delivered customized quotes with various financing options.
+* Created and edited PV solar design plans in AutoCAD; coordinated engineer feedback for local code compliance.
+* Managed 50+ plan revisions weekly; trained team members on revision processes and QA standards.
+* Generated solar proposals using **Aurora Solar**, **Solflow**, and **Pitt** with customized financing options.
 
 ---
 
-## Privix Platform Overview & Architecture
+## Projects
 
-**Overview:** Privix is a secure SaaS platform that streamlines project management and loan application workflows for solar energy. It provides guided multi-step onboarding, a comprehensive financing application flow with form persistence, and real-time credit checks.
+### [Privix](https://github.com/CarsonCowan22)
+Secure SaaS platform for solar financing and applicant onboarding. Multi-bureau credit integration, role-based access, automated PDF generation, and full CI/CD on Vercel.
+**Stack:** Next.js 15, React, TypeScript, PostgreSQL, NextAuth.js, Vercel
 
-**Architecture:**
+### TEC Site
+Internal operations platform built on the same stack as Privix, designed for team and project management workflows.
+**Stack:** Next.js, React, TypeScript, PostgreSQL, Vercel
 
-* **Frontend/Backend:** Built with **Next.js 15**, using **React + TypeScript** and **Next.js API routes**
-* **Database:** PostgreSQL with TypeORM
-* **Authentication:** NextAuth.js (JWT, RBAC)
-* **Integrations:** TransUnion, Experian, Equifax, Google Maps API, Microsoft Graph (OAuth)
-* **Security:** Encrypted sensitive data at rest, full audit logging
-* **Deployment:** Vercel with CI/CD pipeline
+### Solar Glossary
+Address-based AHJ/utility/HOA lookup tool for PV solar permit plan sets, targeting California solar markets with subscription-based access and optional API.
+**Stack:** Next.js, React, TypeScript, PostgreSQL, Vercel
 
-**Recent Improvements:**
-
-* Fixed SSL misconfig and React memory leaks in production
-* Added global error boundary for resilience
-* Built memory monitor and env verification script for safer deploys
-* Upcoming: Sentry integration, log stripping, and system health checks
 
 ---
 
 ## Education
 
-**Utah Valley University** – B.A.S. in Software Development (Expected 2025)
-Relevant coursework: Data Structures, Web Dev, Algorithms
+**Utah Valley University** – BAS in Software Development (May 2025) | GPA: 3.13
+Relevant coursework: Data Structures, Algorithms, Web Development, Software Engineering
 
 ---
 
 ## Skills & Technologies
 
-**Languages & Frameworks:** JavaScript (ES6+), TypeScript, React (Next.js, Redux), Node.js (Express), PHP
-**Databases:** SQL, PostgreSQL
-**Tools & Platforms:** Git, GitHub, Vercel, GitHub Actions, Tailwind CSS, HTML5, CSS3, Bootstrap
-**Industry Knowledge:** AutoCAD, Aurora Solar, GIS, NEC & Fire Code compliance
-**Soft Skills:** Debugging, leadership, collaboration, mentorship
+**Languages & Frameworks:** JavaScript (ES6+), TypeScript, React, Next.js, Node.js, PHP
+**Databases:** PostgreSQL, SQL, SQLite
+**Tools & Platforms:** Git, GitHub, Vercel, GitHub Actions, Tailwind CSS, Bootstrap, HTML5, CSS3, HubSpot
+**Industry Knowledge:** AutoCAD, Aurora Solar, GIS, NEC & Fire Code compliance, AHJ/utility permitting
+**Soft Skills:** Technical leadership, cross-functional collaboration, debugging, mentorship
 
 ---
 
@@ -97,5 +85,5 @@ Credential ID: 64B8AA2EF6
 
 ## Let's Connect!
 
-📧 Email me at [carsoncowan0222@gmail.com](mailto:carsoncowan0222@gmail.com)
+📧 [carsoncowan0222@gmail.com](mailto:carsoncowan0222@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/carson-cowan) | [GitHub](https://github.com/CarsonCowan22)
